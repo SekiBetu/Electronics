@@ -54,8 +54,8 @@
 | ----------- | ----------- | ----------- | :-----------: | :-----------: |
 | OPPO | OPPO Enco Air3 | 轻巧睡觉塞 | 130 | ⭐ |
 | 华为 (HUAWEI) | FreeBuds 5i | 中正，哈曼曲线 | 300 | - |
-| 丽耳 (EarFun) | Air Pro4 | 蓝牙协议齐全，音质不错 | 390 | ⭐ |
-| 华为 (HUAWEI) | FreeBuds 6i | 千元内降噪无敌 | 470 | - |
+| 丽耳 (EarFun) | Air Pro4 | 功能丰富，音质还行 | 390 | - |
+| 华为 (HUAWEI) | FreeBuds 6i | 自研SoC，千元内降噪无敌，偏低音炮 | 470 | ⭐ |
 | OPPO | OPPO Enco X3 | 千元真神 | 1000 | - |
 | 松下 (Panasonic) 子公司 Technics | EAH-AZ80 | 两千以内音质无敌 | 1790 | ⭐⭐ |
 
