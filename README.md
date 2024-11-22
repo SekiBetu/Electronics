@@ -1,17 +1,17 @@
 ## 个人买过的电子产品及评价
 
-- [音频设备篇](https://github.com/SekiBetu/Electronics/blob/main/AudioDevice.md)
+- [路由器](https://github.com/SekiBetu/Electronics/blob/main/Router.md)
 
-- [键盘篇](https://github.com/SekiBetu/Electronics/blob/main/KeyBoard.md)
+- [笔记本电脑](https://github.com/SekiBetu/Electronics/blob/main/Laptop.md)
 
-- [鼠标篇](https://github.com/SekiBetu/Electronics/blob/main/Mouse.md)
+- [智能手机](https://github.com/SekiBetu/Electronics/blob/main/SmartPhone.md)
 
-- [路由器篇](https://github.com/SekiBetu/Electronics/blob/main/Router.md)
+- [音频设备](https://github.com/SekiBetu/Electronics/blob/main/AudioDevice.md)
 
-- [笔记本篇](https://github.com/SekiBetu/Electronics/blob/main/Laptop.md)
+- [键盘](https://github.com/SekiBetu/Electronics/blob/main/KeyBoard.md)
 
-- [U盘篇](https://github.com/SekiBetu/Electronics/blob/main/USB_Flash_Drive.md)
+- [鼠标](https://github.com/SekiBetu/Electronics/blob/main/Mouse.md)
 
-- [手柄篇](https://github.com/SekiBetu/Electronics/blob/main/Controller.md)
+- [U盘](https://github.com/SekiBetu/Electronics/blob/main/USB_Flash_Drive.md)
 
-- [手机篇](https://github.com/SekiBetu/Electronics/blob/main/SmartPhone.md)
+- [游戏手柄](https://github.com/SekiBetu/Electronics/blob/main/Controller.md)
