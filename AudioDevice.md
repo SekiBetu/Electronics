@@ -56,6 +56,7 @@
 | 华为 (HUAWEI) | FreeBuds 5i | 中正，哈曼曲线 | 300 | - |
 | 丽耳 (EarFun) | Air Pro4 | 功能丰富，音质还行 | 390 | - |
 | 华为 (HUAWEI) | FreeBuds 6i | 自研SoC，千元内降噪无敌，偏低音炮 | 470 | ⭐ |
+| OPPO | OPPO Enco W51 | 当年的降噪耳机之神，兼顾音质 | 500 | ⭐ |
 | OPPO | OPPO Enco X3 | 千元真神 | 1000 | - |
 | 松下 (Panasonic) 子公司 Technics | EAH-AZ80 | 两千以内音质无敌 | 1790 | ⭐⭐ |
 
