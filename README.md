@@ -1,4 +1,4 @@
-## 个人买过的电子产品及评价
+## 个人用过的电子产品及评价
 
 - [路由器](https://github.com/SekiBetu/Electronics/blob/main/Router.md)
 
