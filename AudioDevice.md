@@ -42,6 +42,7 @@
 | 森海塞尔 (SENNHEISER) | IE100 PRO | 偏亮，高频又刺又薄，听不了一点 | 550 | - |
 | 达音科 (DUNU) | 隼U (FALCON ULTRA) | 一耳朵明亮，高频刺耳，不耐听 | 1270 | - |
 | 绯乐 (Feaulle) | 诗 (Lyric) | 素质不错，耐听，HuFi | 1430 | ⭐⭐ |
+| Mystori Audio | M-121i(谜姬) | 比绯乐Lyric素质好 | 售罄 | ⭐⭐⭐ |
 
 ---
 
@@ -59,7 +60,7 @@
 | 华为 (HUAWEI) | FreeBuds 6i | 自研SoC，千元内降噪无敌，偏低音炮 | 470 | - |
 | OPPO | OPPO Enco W51 | 当年的降噪耳机之神，兼顾音质 | 500 | - |
 | OPPO | OPPO Enco X3 | 千元真神，不挑手机 | 1000 | - |
-| 松下 (Panasonic) 子公司 Technics | EAH-AZ80 | 两千以内音质无敌 | 1790 | ⭐⭐ |
+| 松下 (Panasonic) 子公司 Technics | EAH-AZ80 | 两千以内音质无敌 | 1790 | ⭐ |
 
 ## 有线头戴
 
