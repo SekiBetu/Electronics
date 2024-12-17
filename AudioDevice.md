@@ -42,7 +42,7 @@
 | 森海塞尔 (SENNHEISER) | IE100 PRO | 偏亮，高频又刺又薄，听不了一点 | 550 | - |
 | 达音科 (DUNU) | 隼U (FALCON ULTRA) | 一耳朵明亮，高频刺耳，不耐听 | 1270 | - |
 | 绯乐 (Feaulle) | 诗 (Lyric) | 素质不错，耐听，HuFi | 1430 | ⭐⭐ |
-| Mystori Audio | M-121i(谜姬) | 比绯乐Lyric素质好 | 售罄 | ⭐⭐⭐ |
+| Mystori Audio | M-121i (谜姬) | 比绯乐Lyric素质好 | 1300 | ⭐⭐ |
 
 ---
 
