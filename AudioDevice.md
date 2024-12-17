@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/96d694ad-33f8-4d17-b9f1-b13b207f7cde)# 个人听过的音频设备及主观评价
+# 个人听过的音频设备及主观评价
 
 (个人喜欢听流行，氛围感HuFi加分，不听古典，不喜欢高频刺耳的)
 
