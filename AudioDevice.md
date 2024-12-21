@@ -49,7 +49,7 @@
 
 ---
 
-<details><summary>因各种原因以后基本不会买的产品类型</summary>
+<details><summary>因各种原因基本不会买的产品类型</summary>
 
 ## 无线入耳
 
