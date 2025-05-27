@@ -15,3 +15,5 @@
 - [U盘](https://github.com/SekiBetu/Electronics/blob/main/USB_Flash_Drive.md)
 
 - [游戏手柄](https://github.com/SekiBetu/Electronics/blob/main/Controller.md)
+
+- [模型]([Model](https://github.com/SekiBetu/Electronics/blob/main/Model.md))
