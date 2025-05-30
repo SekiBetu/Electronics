@@ -45,6 +45,10 @@
 
 ---
 
+- 所罗门 1/100 酸浆果
+
+---
+
 - 大班 1/100 6631S 沙扎比 Ver.Ka（电镀版）【高达基地限定 MG 1/100 沙扎比（特别涂装版）】 翻模】
 - 大班 1/100 8802 MB样式 强袭自由【METAL BUILD 强袭FREEDOM GUNDAM光之翼选项套装 [Re:PACKAGE] 魔改】
 - 大班 1/100 8822 MB样式 OOQ（全刃式）【METAL BUILD 00 QAN[T] FULL SABER 魔改】
